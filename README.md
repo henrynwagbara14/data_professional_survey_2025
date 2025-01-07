@@ -127,12 +127,12 @@ Based on the analysis and visualizations, the following key findings were observ
 
 - **Difficulty Breaking into Data**: Many respondents found it challenging to enter the data field, likely due to the competitive nature of the industry and the technical skills required for various roles.
 
-**High Earnings**: Data Scientists, Engineers, and Architects
+- **High Earnings**: Data Scientists, Engineers, and Architects
 Data scientists, engineers, and architects have the highest earning potential, with architects earning the most, followed by engineers and data scientists, reflecting the demand for specialized technical skills.
 
-**Good Work-Life Balance**: Respondents generally reported satisfaction with their work-life balance, likely influenced by flexible working conditions, such as remote work and adaptable hours in many data roles.
+- **Good Work-Life Balance**: Respondents generally reported satisfaction with their work-life balance, likely influenced by flexible working conditions, such as remote work and adaptable hours in many data roles.
 
-**Low Job Happiness**: Despite good work-life balance, many respondents expressed low happiness related to salary, career growth, and other job satisfaction factors, indicating a need for improvement in these areas.
+- **Low Job Happiness**: Despite good work-life balance, many respondents expressed low happiness related to salary, career growth, and other job satisfaction factors, indicating a need for improvement in these areas.
 
 ---
 
