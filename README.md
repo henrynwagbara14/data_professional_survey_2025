@@ -15,6 +15,7 @@
 - [Visualization](#visualization)
   - [Results](#results)
 - [Findings](#findings)
+- [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
 
 ---
@@ -104,18 +105,14 @@ The data cleaning process in Power BI included:
 
 The exploratory data analysis (EDA) included:
 - **Visualizations**: Bar charts, histograms, and scatter plots were used to analyze the data.
-- **Initial Findings**: A significant proportion of survey respondents have a background in computer science.
+- **Initial Findings**: A significant proportion of survey respondents have a background in data science.
+- A significant proportion of survey respondents' favourite programming language is Python.
 
 ## Visualization
 
 ### Results
 
-The results were visualized using Power BI to create various charts and graphs to showcase key findings, including:
-- **Salary vs. Industry**: A scatter plot showing how salaries vary across different industries.
-- **Job Satisfaction**: Bar charts depicting respondents’ satisfaction with various aspects of their job (e.g., salary, work-life balance, etc.).
-- **Career Breakthrough Difficulty**: A histogram showing how difficult respondents found it to break into the data field.
-
----
+The results were visualized using Power BI to create various charts and graphs to showcase key findings.
 
 ## Findings
 
@@ -124,8 +121,45 @@ Based on the analysis and visualizations, the following key findings were observ
 - **Salary Expectations**: There is a wide range of salaries across industries, with the technology sector offering the highest salaries on average.
 - **Job Satisfaction**: The majority of respondents expressed satisfaction with their work-life balance but showed mixed feelings about salary and upward mobility.
 
+- **Favorite Programming Language**: Python is the most popular language among data professionals, largely due to its versatility, ease of use, and extensive libraries for data analysis, machine learning, and AI.
+
+- **Difficulty Breaking into Data**: Many respondents found it challenging to enter the data field, likely due to the competitive nature of the industry and the technical skills required for various roles.
+
+**High Earnings**: Data Scientists, Engineers, and Architects
+Data scientists, engineers, and architects have the highest earning potential, with architects earning the most, followed by engineers and data scientists, reflecting the demand for specialized technical skills.
+
+**Good Work-Life Balance**: Respondents generally reported satisfaction with their work-life balance, likely influenced by flexible working conditions, such as remote work and adaptable hours in many data roles.
+
+**Low Job Happiness**: Despite good work-life balance, many respondents expressed low happiness related to salary, career growth, and other job satisfaction factors, indicating a need for improvement in these areas.
+
+---
+
+## Recommendations
+
+### Invest in Skill Development and Training Programs
+
+Recommendation: Given the difficulty in breaking into the data field, training programs or boot camps could be highly beneficial. Companies and educational institutions should develop tailored programs that help individuals build essential skills in programming, data analysis, and machine learning.
+Action: Encouraging mentorship and internship opportunities could also help bridge the gap for newcomers, providing them with practical experience and connections in the industry.
+
+### Focus on Compensation and Career Advancement
+
+Recommendation: Companies should prioritize competitive compensation packages and clear paths for career growth to increase employee satisfaction. While work-life balance is crucial, employees also value fair compensation, career progression, and learning opportunities.
+Action: Employers should consider implementing performance reviews that focus not only on technical achievements but also on professional development and upward mobility, ensuring that employees feel valued and have the potential for growth.
+
+### Leverage the Popularity of Python
+
+Recommendation: Since Python is the most favored programming language among data professionals, organizations should invest in training and upskilling their employees in Python-related tools and frameworks to ensure their teams remain highly proficient.
+Action: Companies should also consider expanding Python-based projects or integrating Python into their workflows to maximize the benefits of its widespread adoption.
+
+### Improve Employee Satisfaction and Happiness
+
+Recommendation: Employers should take a closer look at factors affecting job satisfaction beyond work-life balance, such as salary, management practices, and upward mobility.
+Action: Conducting regular employee surveys, offering mentorship programs, and focusing on transparent communication regarding promotions and salary increases could address many of the concerns that contribute to low happiness levels.
+
 ---
 
 ## Conclusion
 
-The survey results provide valuable insights into the current landscape of data professionals, including their career challenges, salary expectations, job satisfaction, and tools used. The findings can be used to inform career development programs, job satisfaction initiatives, and the development of new tools and technologies to support data professionals.
+While data professionals enjoy a good work-life balance, other aspects of their job, such as salary, career advancement, and overall job satisfaction, require improvement. The survey highlights the challenges faced by individuals trying to break into the data field and underscores the high earning potential for roles like data scientists, engineers, and architects. Python remains the top programming language of choice, reinforcing its importance in the data ecosystem.
+
+By investing in skill development, improving compensation packages, and addressing concerns around career progression and management, companies can enhance job satisfaction and retain top talent in the competitive data field.
