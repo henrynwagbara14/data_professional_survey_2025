@@ -114,6 +114,8 @@ The exploratory data analysis (EDA) included:
 
 The results were visualized using Power BI to create various charts and graphs to showcase key findings.
 
+![Data Professional Survey - Power BI Screenshot](assets/images/Data Professional Survey - Power BI Screenshot.png)
+
 ## Findings
 
 Based on the analysis and visualizations, the following key findings were observed:
